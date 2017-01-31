@@ -1,0 +1,40 @@
+﻿Build started 5/9/2016 1:22:48 AM.
+     1>Project "E:\Project 2\Project 2\Project 2.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt cs232_p2_client_driver.cpp
+         cs232_p2_client_driver.cpp
+     1>e:\project 2\project 2\graph.t(356): warning C4018: '<': signed/unsigned mismatch
+     1>e:\project 2\project 2\graph.t(360): warning C4018: '<': signed/unsigned mismatch
+     1>e:\project 2\project 2\graph.t(366): warning C4018: '<': signed/unsigned mismatch
+     1>e:\project 2\project 2\graph.t(371): warning C4018: '<': signed/unsigned mismatch
+     1>e:\project 2\project 2\graph.t(488): warning C4018: '<': signed/unsigned mismatch
+     1>e:\project 2\project 2\graph.t(492): warning C4018: '<': signed/unsigned mismatch
+     1>e:\project 2\project 2\graph.t(499): warning C4018: '<': signed/unsigned mismatch
+     1>e:\project 2\project 2\graph.t(503): warning C4018: '<': signed/unsigned mismatch
+     1>e:\project 2\project 2\graph.t(595): warning C4018: '<': signed/unsigned mismatch
+     1>e:\project 2\project 2\graph.t(612): warning C4018: '<': signed/unsigned mismatch
+     1>e:\project 2\project 2\graph.t(619): warning C4018: '<': signed/unsigned mismatch
+     1>e:\project 2\project 2\graph.t(633): warning C4018: '<': signed/unsigned mismatch
+     1>e:\project 2\project 2\graph.t(644): warning C4018: '<': signed/unsigned mismatch
+     1>e:\project 2\project 2\graph.t(652): warning C4018: '<': signed/unsigned mismatch
+     1>e:\project 2\project 2\graph.t(664): warning C4018: '<': signed/unsigned mismatch
+     1>e:\project 2\project 2\graph.t(753): warning C4018: '<': signed/unsigned mismatch
+     1>e:\project 2\project 2\graph.t(758): warning C4018: '<': signed/unsigned mismatch
+     1>e:\project 2\project 2\graph.t(766): warning C4018: '<': signed/unsigned mismatch
+     1>e:\project 2\project 2\graph.t(768): warning C4018: '<': signed/unsigned mismatch
+     1>e:\project 2\project 2\graph.t(779): warning C4018: '<': signed/unsigned mismatch
+     1>e:\project 2\project 2\graph.t(746): warning C4101: 'tempw': unreferenced local variable
+     1>e:\project 2\project 2\graph.t(817): warning C4018: '<': signed/unsigned mismatch
+     1>e:\project 2\project 2\graph.t(823): warning C4018: '<': signed/unsigned mismatch
+     1>e:\project 2\project 2\graph.t(834): warning C4018: '<': signed/unsigned mismatch
+     1>e:\project 2\project 2\graph.t(836): warning C4018: '<': signed/unsigned mismatch
+     1>e:\project 2\project 2\graph.t(848): warning C4018: '<': signed/unsigned mismatch
+     1>e:\project 2\project 2\graph.t(810): warning C4101: 'tempw': unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Project 2\Debug\Project 2.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"E:\Project 2\Debug\Project 2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Project 2\Debug\Project 2.lib" /MACHINE:X86 Debug\cs232_p2_client_driver.obj
+         Project 2.vcxproj -> E:\Project 2\Debug\Project 2.exe
+     1>Done Building Project "E:\Project 2\Project 2\Project 2.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:29.91
